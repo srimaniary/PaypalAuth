@@ -1,0 +1,34 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "paypal Auth - how to start accepting payments on your website using paypal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paypal",
+    "payment",
+    "gateway",
+    "nodejs",
+    "payment",
+    "integration",
+    "in",
+    "web",
+    "apps"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srimaniary/PaypalAuth.git"
+  },
+  "author": "Aryvart Srimani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srimaniary/PaypalAuth/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "paypal-rest-sdk": "^1.8.1"
+  },
+  "homepage": "https://github.com/srimaniary/PaypalAuth#readme"
+}
